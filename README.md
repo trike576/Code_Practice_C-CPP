@@ -5,4 +5,5 @@ Here I will upload the programs of C or C++ I will upload while learning and pra
   <li>Simple Calculator</li>
   <li>Set Bits Calculator</li>
   <li>Fibonacci nth term finder</li>
+  <li>Maximum and minimum number finder </li>
 </ol>
