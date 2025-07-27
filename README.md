@@ -8,4 +8,5 @@ Here I will upload the programs of C or C++ I will upload while learning and pra
   <li>Maximum and minimum number finder </li>
   <li>Array reverser</li>
   <li>Alternative array swapper</li>
+  <li>Unique number finder</li>
 </ol>
