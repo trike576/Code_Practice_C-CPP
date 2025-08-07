@@ -16,4 +16,5 @@ Here I will upload the programs of C or C++ I will upload while learning and pra
   <li>Array sorted or not checker</li>
   <li>First and last occurrence finder</li>
   <li>Number's Count Finder</li>
+  <li>Perfect square finder </li>
 </ol>
