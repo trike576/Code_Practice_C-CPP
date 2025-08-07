@@ -14,4 +14,5 @@ Here I will upload the programs of C or C++ I will upload while learning and pra
   <li>Sort 0 and 1</li>
   <li>Sort 0 and 1 by two pointer approach </li>
   <li>Array sorted or not checker</li>
+  <li>First and last occurrence finder</li>
 </ol>
