@@ -19,4 +19,5 @@ Here I will upload the programs of C or C++ I will upload while learning and pra
   <li>Perfect square finder </li>
   <li>Minimum and maximum number finder (using only one loop)</li>
   <li>Peak element finder</li>
+  <li>Median finder </li>
 </ol>
