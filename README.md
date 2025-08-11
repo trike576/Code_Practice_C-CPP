@@ -20,4 +20,7 @@ Here I will upload the programs of C or C++ I will upload while learning and pra
   <li>Minimum and maximum number finder (using only one loop)</li>
   <li>Peak element finder</li>
   <li>Median finder </li>
+  <li>Balance Parentheses</li>
+  <li>String reversor using stack</li>
+  <li>String Palindrome Checker</li>
 </ol>
